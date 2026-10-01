@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hi there 👋, I'm Shameem Banu<br><br>🎓 Integrated MSc IT Student at College of Engineering, Guindy (Anna University)<br><br>🤖 Aspiring AI Engineer passionate about Machine Learning, Data Science, and Intelligent Application Development.
-
+Hi there 👋, I'm Shameem Banu<br><br>🎓 Integrated MSc IT Student at College of Engineering, Guindy (Anna University)<br><br>🤖 
+Aspiring AI Engineer |Generative AI | Machine Learning, Data Science | Building intelligent, real-world solutions 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shameem--banu) 
